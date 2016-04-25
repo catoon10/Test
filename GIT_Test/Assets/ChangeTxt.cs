@@ -6,10 +6,13 @@ using System.Collections.Generic;
 public class ChangeTxt : MonoBehaviour {
 
     public Text nickname;
+    public Text nickname2;
+
 
     void Start()
     {
-        nickname.text = "Toon HI Yo";
+        nickname.text = "I love You";
+        nickname2.text = "Nice to meet you!!";
     }
     
     
