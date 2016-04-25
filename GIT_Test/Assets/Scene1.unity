@@ -212,7 +212,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: HEllo World!!
+  m_Text: '000
+
+'
 --- !u!222 &1039322010
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -323,6 +325,7 @@ GameObject:
   - 92: {fileID: 2059966279}
   - 124: {fileID: 2059966278}
   - 81: {fileID: 2059966277}
+  - 114: {fileID: 2059966282}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -397,3 +400,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &2059966282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2059966276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e8dc40fcdf3214cb1c54a6a379ab72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nickname: {fileID: 1039322009}
