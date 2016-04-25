@@ -9,7 +9,7 @@ public class ChangeTxt : MonoBehaviour {
 
     void Start()
     {
-        nickname.text = "Toon";
+        nickname.text = "Toon HI Yo";
     }
     
     
