@@ -12,7 +12,7 @@ public class ChangeTxt : MonoBehaviour {
     void Start()
     {
         nickname.text = "I love Yoeeeu";
-        nickname2.text = "Nice to meet you!!";
+        nickname2.text = "Nice to meet you!! Today we have testttt!!!";
     }
     
     
